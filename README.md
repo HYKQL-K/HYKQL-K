@@ -15,6 +15,7 @@
 <!-- 个性化区域 -->
 ### ✨ 项目亮点
 [![Project Demo](https://github-readme-stats.vercel.app/api/pin/?username=HYKQL-K&repo=Project-Streaming-Control-Platform&theme=radical)](https://github.com/HYKQL-K/Project-Streaming-Control-Platform)
+[![Project Demo](https://github-readme-stats.vercel.app/api/pin/?username=HYKQL-K&repo=E-Commerce-Platform&theme=radical)](https://github.com/HYKQL-K/E-Commerce-Platform)
 
 <!-- 动态访问计数 -->
 ### 🌐 访问统计
