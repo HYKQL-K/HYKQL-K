@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!-- 动态统计卡片（深色科技风） -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HYKQL-K&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/HYKQL-K)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HYKQL-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/HYKQL-K)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HYKQL-K&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/HYKQL-K)
 
 <!-- 技能徽章 -->
 ### 🛠️ 技术栈
