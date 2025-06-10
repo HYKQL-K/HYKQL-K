@@ -20,6 +20,3 @@
 ### 🌐 访问统计
 ![Visitor Count](https://komarev.com/ghpvc/?username=HYKQL-K&color=blueviolet&style=flat-square)
 
-<!-- 联系方式 -->
-### 📬 联系我
-[![Email](https://img.shields.io/badge/-EMAIL_ADDRESS-D14836?logo=gmail&logoColor=white)](mailto:HYKQLHYKQL@GMAIL.COM)
