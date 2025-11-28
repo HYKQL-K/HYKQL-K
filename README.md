@@ -18,7 +18,7 @@
 
 <br/>
 
-<h2 align="center">⚡ Technical Arsenal (技术武库)</h2>
+<h2 align="center">⚡ Technical Arsenal </h2>
 
 <div align="center">
   <table style="border: 1px solid #e1e4e8; border-collapse: collapse;">
@@ -55,7 +55,7 @@
 
 <br/>
 
-<h2 align="center">💎 Flagship Projects (核心项目)</h2>
+<h2 align="center">💎 Flagship Projects </h2>
 
 <div align="center">
 <table width="100%" style="border: none;">
