@@ -1,83 +1,53 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=HYKQL-K&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Distributed%20Systems&descAlignY=55&descAlign=50" />
+
+  <br/>
+
   <a href="https://github.com/HYKQL-K">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=23272d&center=true&vCenter=true&width=600&lines=Hi+There,+I'm+HYKQL-K+👋;Architecting+Scalable+Microservices.;Crafting+Modern+Web+Experiences." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Architecting+High+Concurrency+Solutions;Crafting+Elegant+Vue3+Interfaces;Always+Coding,+Always+Evolving." />
   </a>
 
   <br/><br/>
 
   <p>
-    <code>Java Full Stack</code> • <code>Microservices</code> • <code>Open Source</code>
+    <img src="https://img.shields.io/badge/ROLE-Full_Stack_Architect-black?style=for-the-badge&logo=codemonkey&logoColor=white" />
+    <img src="https://img.shields.io/badge/STACK-Spring_Cloud_%26_Vue-42b883?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/FOCUS-Distributed_Systems-007ACC?style=for-the-badge&logo=serverless&logoColor=white" />
   </p>
-  
-  <p>
-    专注于构建高性能分布式系统与现代化前端交互体验。<br>
-    追求代码的<b>优雅</b>、系统的<b>稳定</b>与架构的<b>可扩展性</b>。
-  </p>
-
 </div>
 
 <br/>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h2 align="center">⚡ Technical Arsenal (技术武库)</h2>
 
 <div align="center">
-  <br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,mybatis&theme=light" alt="Backend" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=redis,rabbitmq,elasticsearch,mysql,docker,linux&theme=light" alt="Middleware" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=vue,vite,ts,js,html,css&theme=light" alt="Frontend" />
-  <br/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284113-55ade018-038c-4a37-8898-1543b591b654.gif" width="100%">
-</div>
-
-<br/>
-
-<h3 align="center">💎 Featured Projects</h3>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="400" align="center" valign="top">
-        <h3>🛍️ E-Commerce Platform</h3>
-        <p><b>现代化微服务电商解决方案</b></p>
-        <p>
-           <a href="https://github.com/HYKQL-K/E-Commerce-Platform">
-             <img src="https://img.shields.io/github/stars/HYKQL-K/E-Commerce-Platform?style=social" alt="stars"/>
-           </a>
-        </p>
-        <p align="left">
-          🚀 <b>核心痛点：</b>高并发秒杀、分布式事务<br>
-          🔧 <b>技术栈：</b>Spring Cloud Alibaba, Seata, Sentinel<br>
-          🎨 <b>前端：</b>Vue 3, Pinia, Element Plus
-        </p>
-        <br>
-        <a href="https://github.com/HYKQL-K/E-Commerce-Platform">
-          <img src="https://img.shields.io/badge/View_Project-23272d?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+  <table style="border: 1px solid #e1e4e8; border-collapse: collapse;">
+    <tr style="background-color: #f6f8fa;">
+      <td width="120" align="center" style="padding: 10px;"><b>🏗️ Architecture</b></td>
+      <td width="600" align="left" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Cloud_Alibaba-orange?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nacos-Config_%26_Discovery-blue?style=flat-square&logo=docusign&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sentinel-Flow_Control-red?style=flat-square&logo=guard&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seata-Distributed_Tx-black?style=flat-square&logo=apache&logoColor=white" />
       </td>
-      <td width="400" align="center" valign="top">
-        <h3>📊 Project Control Platform</h3>
-        <p><b>企业级智能项目管理系统</b></p>
-        <p>
-           <a href="https://github.com/HYKQL-K/Project-Streaming-Control-Platform">
-             <img src="https://img.shields.io/github/stars/HYKQL-K/Project-Streaming-Control-Platform?style=social" alt="stars"/>
-           </a>
-        </p>
-        <p align="left">
-          🔄 <b>核心功能：</b>工作流审批、全生命周期管理<br>
-          🔧 <b>技术栈：</b>Spring Boot, Flowable, Nacos<br>
-          📈 <b>监控：</b>SkyWalking, Data Visualization
-        </p>
-        <br>
-        <a href="https://github.com/HYKQL-K/Project-Streaming-Control-Platform">
-          <img src="https://img.shields.io/badge/View_Project-23272d?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;"><b>☕ Core & Data</b></td>
+      <td align="left" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=java,mysql,redis,rocketmq,elasticsearch,mybatis&theme=light" />
+      </td>
+    </tr>
+    <tr style="background-color: #f6f8fa;">
+      <td align="center" style="padding: 10px;"><b>🎨 Frontend</b></td>
+      <td align="left" style="padding: 10px;">
+         <img src="https://skillicons.dev/icons?i=vue,vite,ts,html,css,js&theme=light" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;"><b>🚀 DevOps</b></td>
+      <td align="left" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=docker,linux,jenkins,git,idea&theme=light" />
       </td>
     </tr>
   </table>
@@ -85,15 +55,61 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h2 align="center">💎 Flagship Projects (核心项目)</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HYKQL-K&show_icons=true&theme=buefy&count_private=true&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYKQL-K&layout=compact&theme=buefy&hide_border=true&hide=html,css,scss" height="150" alt="langs" />
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #e1e4e8; padding: 20px;">
+      <h3>
+        <a href="https://github.com/HYKQL-K/E-Commerce-Platform">🛍️ E-Commerce Platform</a>
+      </h3>
+      <p><b>现代化微服务电商中台</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/High-Concurrency-red?style=flat-square" />
+      </p>
+      <ul align="left" style="font-size: 13px;">
+        <li>🔒 <b>Redis + Redisson</b> 实现高并发分布式锁</li>
+        <li>📦 <b>RocketMQ</b> 削峰填谷与事务消息投递</li>
+        <li>🔍 <b>Elasticsearch</b> 亿级商品毫秒检索</li>
+      </ul>
+      <p>
+        <a href="https://github.com/HYKQL-K/E-Commerce-Platform">
+          <img src="https://img.shields.io/github/stars/HYKQL-K/E-Commerce-Platform?style=social" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #e1e4e8; padding: 20px;">
+      <h3>
+        <a href="https://github.com/HYKQL-K/Project-Streaming-Control-Platform">📊 Control Platform</a>
+      </h3>
+      <p><b>企业级智能项目全生命周期管理</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Engine-Flowable-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Monitor-SkyWalking-blue?style=flat-square" />
+      </p>
+      <ul align="left" style="font-size: 13px;">
+        <li>🔄 <b>Flowable</b> 自定义复杂业务审批流</li>
+        <li>👁️ <b>SkyWalking</b> 全链路性能监控与追踪</li>
+        <li>🐳 <b>Docker + Jenkins</b> 自动化 CI/CD 流水线</li>
+      </ul>
+      <p>
+        <a href="https://github.com/HYKQL-K/Project-Streaming-Control-Platform">
+          <img src="https://img.shields.io/github/stars/HYKQL-K/Project-Streaming-Control-Platform?style=social" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
 
+<h2 align="center">📈 Coding Activity</h2>
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HYKQL-K.HYKQL-K&left_color=grey&right_color=blue&left_text=Visitors" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HYKQL-K&show_icons=true&count_private=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYKQL-K&layout=compact&theme=default&hide=html,css" height="150" />
 </div>
+
