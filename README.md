@@ -105,7 +105,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HYKQL-K&show_icons=true&count_private=true&hide_rank=true&title_color=ef5b9c&icon_color=36BCF7&text_color=555&bg_color=fff&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYKQL-K&layout=compact&hide=html,css&title_color=ef5b9c&text_color=555&bg_color=fff&hide_border=true" height="150" />
 </div>
 
 <br/>
