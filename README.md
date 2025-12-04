@@ -117,21 +117,21 @@
 <h2 align="center">📈 Coding Activity & Stats</h2>
 
 <div align="center">
-  <img src="https://github.com/HYKQL-K/HYKQL-K/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/HYKQL-K/HYKQL-K/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HYKQL-K&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HYKQL-K&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYKQL-K&layout=compact&hide=html,css&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYKQL-K&layout=compact&hide=html,css&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HYKQL-K&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HYKQL-K&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
