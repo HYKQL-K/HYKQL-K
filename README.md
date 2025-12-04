@@ -105,20 +105,6 @@
 
 <br/>
 
-<h2 align="center">📈 Coding Activity & Stats</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HYKQL-K/HYKQL-K/output/dist/snake-dark.svg" width="100%" alt="snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HYKQL-K/HYKQL-K/output/dist/metrics.svg" width="80%" alt="metrics" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HYKQL-K&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
 </div>
