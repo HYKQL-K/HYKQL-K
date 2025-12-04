@@ -108,17 +108,13 @@
 <h2 align="center">📈 Coding Activity & Stats</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HYKQL-K/HYKQL-K/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/HYKQL-K/HYKQL-K/output/dist/snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
 <br/>
 
 <div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=HYKQL-K&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYKQL-K&layout=compact&hide=html,css&theme=tokyonight&hide_border=true)
-
+  <img src="https://raw.githubusercontent.com/HYKQL-K/HYKQL-K/output/dist/metrics.svg" width="80%" alt="metrics" />
 </div>
 
 <br/>
