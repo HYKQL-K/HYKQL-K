@@ -87,7 +87,7 @@
       </div>
     </td>
     <td width="50%" align="center" valign="top" style="padding: 10px;">
-      <h3><a href="https://github.com/HYKQL-K/Project-Streaming-Control-Platform">📊 Control Platform</a></h3>
+      <h3><a href="https://github.com/HYKQL-K/ProFlow-Control-Hub)">📊 ProFlow-Control-Hub</a></h3>
       <p><b>企业级项目全生命周期管理</b></p>
       <img src="https://img.shields.io/badge/Engine-Flowable-orange?style=flat-square" />
       <img src="https://img.shields.io/badge/Monitor-SkyWalking-blue?style=flat-square" />
